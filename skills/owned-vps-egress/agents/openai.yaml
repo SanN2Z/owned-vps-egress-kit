@@ -1,0 +1,4 @@
+interface:
+  display_name: "Owned VPS Egress"
+  short_description: "Deploy owned exits and audit TUN leak protection"
+  default_prompt: "Use $owned-vps-egress to configure a newly rented VPS for this recipient and prepare validated Mihomo and iOS Shadowrocket imports."
